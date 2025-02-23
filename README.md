@@ -1,4 +1,4 @@
-Backend coding exercise
+Midi Player
 =======================
 
 You will need Node.js 16 (or more recent), which you can download at https://nodejs.org. Run:
